@@ -45,7 +45,7 @@ You will then see a pop-up window with a preview of your data >> click Load.
 
 ## SCHEMAS & DATA MODELLING IN POWER BI. ##
 
-** What is Data Modelling? **
+**What is Data Modelling?**
 
 
 This refers to the process of organizing and structuring data to create meaningful relationships between different tables, which allows efficient data analysis and visualization.
@@ -75,7 +75,7 @@ Major Concepts in Data Modelling:
 
 ***Flat table;*** This is one table that consolidates all data into one wide table, removing the need for relationships by denormalizing data into a single, spreadsheet-like structure. 
 
-###Star Schema:###
+### Star Schema: ###
 
 This is a centralized data modeling technique with a central fact table containing numbers/measures, e.g., sales,  connected to surrounding dimension tables (providing context like product, customer), forming a star shape for faster, simpler analysis and reporting by logically grouping data.
 
@@ -94,7 +94,7 @@ Generally faster for query execution due to fewer joins.
 
 *Disadvantage: Higher storage consumption and data redundancy.*
 
-###A snowflake schema:###
+### A snowflake schema: ###
 
 Is a normalized data modeling technique for data warehouses where a central fact table connects to dimension tables, which are further broken down into sub-dimension tables to eliminate data redundancy.
 
@@ -123,10 +123,10 @@ Star Schemas  |  Snowflake Schemas
 1. Denormalized  | Denormalized
 2. Uses fewer Joins  |  Uses more joins
 3. Uses more Storage space | Uses less Storage space
-4. Star is better for fast analysis | Snowflake is better for data                           integrity
+4. Star is better for fast analysis | Snowflake is better for data integrity
  
 
-##DATA MODELLING:##
+## DATA MODELLING: ##
 
 We have learned all the necessary concepts in data modelling, so now let’s get to building our first model!
 
