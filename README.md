@@ -1,5 +1,5 @@
 
-#What is Power BI?#
+# What is Power BI? #
 
 Power BI is a business Intelligence tool built by Microsoft that turns raw data into interactive insights.
 It has a very user-friendly interface that allows you to create a beautiful, comprehensive dashboard easily. 
