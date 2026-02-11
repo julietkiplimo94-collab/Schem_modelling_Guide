@@ -6,7 +6,7 @@ It has a very user-friendly interface that allows you to create a beautiful, com
 
 Power BI gained its popularity because of its versatility; it allows you to get data from numerous sources, Ms Excel, Csv files, etc, clean it, analyze it, and then create visuals that are easy to understand.
 
-###Types of Power BI applications:###
+### Types of Power BI applications: ###
 
 1. Power BI Desktop: Is a free Windows application for creating reports and dashboards. You connect your data, clean it, build visualizations, and save your reports.
 
@@ -16,7 +16,7 @@ Power BI gained its popularity because of its versatility; it allows you to get 
 
 4. Power BI Report Server: Power BI Report Server lets you host reports on your own servers securely.
 
-###How to Install Desktop Version:###
+### How to Install Desktop Version: ###
 
 1. Download and Install:
 
@@ -43,9 +43,9 @@ You will then see a pop-up window with a preview of your data >> click Load.
 ![Power bI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n8oygjq34yvykpku26ha.jpeg)
 
 
-##SCHEMAS & DATA MODELLING IN POWER BI.##
+## SCHEMAS & DATA MODELLING IN POWER BI. ##
 
-**What is Data Modelling?**
+** What is Data Modelling? **
 
 
 This refers to the process of organizing and structuring data to create meaningful relationships between different tables, which allows efficient data analysis and visualization.
